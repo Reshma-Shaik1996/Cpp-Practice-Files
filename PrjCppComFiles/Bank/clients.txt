@@ -1,0 +1,12 @@
+CL001
+Bill Gates
+Windows
+200000
+Cl002
+Steve Jobs
+Apple
+300000
+Cl003
+Nikita 
+Pizza
+250
